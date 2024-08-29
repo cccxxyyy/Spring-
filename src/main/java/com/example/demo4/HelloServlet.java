@@ -10,7 +10,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "Hell2o Wos2rlssd!";
+        message = "Hell2o sWos2rlssd!";
 
     }
 
